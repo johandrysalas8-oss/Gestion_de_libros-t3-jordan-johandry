@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Johandry Salas\\Desktop\\Getion_de_libros_yordan\\t3_yordan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D50796F-323D-4D98-B0F0-078D537BACF1}|t3_yordan\\t3_yordan.csproj|c:\\users\\johandry salas\\desktop\\getion_de_libros_yordan\\t3_yordan\\t3_yordan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D50796F-323D-4D98-B0F0-078D537BACF1}|t3_yordan\\t3_yordan.csproj|solutionrelative:t3_yordan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Johandry Salas\\Desktop\\Getion_de_libros_yordan\\t3_yordan\\t3_yordan\\Program.cs",
+              "RelativeDocumentMoniker": "t3_yordan\\Program.cs",
+              "ToolTip": "C:\\Users\\Johandry Salas\\Desktop\\Getion_de_libros_yordan\\t3_yordan\\t3_yordan\\Program.cs",
+              "RelativeToolTip": "t3_yordan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:44:38.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
